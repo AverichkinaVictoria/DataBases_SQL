@@ -1,3 +1,3 @@
 # DataBases_SQL
 
- Вatabase architecture development and sql query generation. 
+ Database architecture development and sql query generation. 
